@@ -20,4 +20,4 @@
 
 
 ## JP EDITION
-## Salvando modificações
+## Salvando modificações no GIT
