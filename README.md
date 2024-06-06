@@ -25,3 +25,4 @@
 * comando git push
 * comando git pull
 * UNDERSTOOD
+* comando git fetch
