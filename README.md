@@ -23,3 +23,4 @@
 ## Salvando modificações no GIT
 # uso do comando restore
 * comando git push
+* comando git pull
